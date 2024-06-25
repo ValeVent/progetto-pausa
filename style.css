@@ -1,0 +1,47 @@
+.container {
+    min-width: 100%;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+#myVideo {
+    position: fixed;
+    z-index: -1;
+    right: 0;
+    bottom: 1;
+    min-width: 100%;
+    min-height: 100%;
+} 
+
+.content {
+    position: fixed;
+    top: 10%;
+    left: 35%;
+    width: 100%;
+}
+
+button {
+    color:#491508;
+    border: 2px solid rgb(151, 9, 9);
+    box-shadow: 10px 10px 20px #491508;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+button:hover {
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    background-color: #932A10;
+    cursor: pointer;
+}
+
+p {
+    color: #ffffff;
+    text-shadow: -1px 0 #FF0000, 0 1px #FF0000, 1px 0 #FF0000, 0 -1px #FF0000;
+    font-size: 30px;
+    font-weight: bolder;
+}
