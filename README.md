@@ -41,8 +41,9 @@ Non sono richiesti particolari prerequisiti oltre a un browser web moderno.
 Installazione
 Clona il repository (o scarica la cartella del progetto):
 
-git clone https://github.com/ValeVent/progetto-pausa.git
-# Assicurati di sostituire 'progetto-pausa.git' con il nome esatto del tuo repository
+git clone [https://github.com/ValeVent/progetto-pausa.git](https://github.com/ValeVent/progetto-pausa.git)
+
+Assicurati di sostituire 'progetto-pausa.git' con il nome esatto del tuo repository
 
 Naviga nella directory del progetto:
 
@@ -53,7 +54,8 @@ Assicurati che il file video (media/855391-uhd_3840_2160_25fps.mp4) sia presente
 
 Apri il file index.html (o il nome del tuo file HTML principale) direttamente nel tuo browser web.
 
-# Se hai installato http-server globalmente (opzionale, per un server locale)
+Se hai installato http-server globalmente (opzionale, per un server locale):
+
 # npm install -g http-server
 http-server .
 
