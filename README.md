@@ -1,4 +1,5 @@
 Progetto Pausa
+
 Questo mini-progetto è un semplice timer interattivo progettato per aiutarti a gestire le pause, mostrando l'ora di inizio e di fine di un periodo di rilassamento predefinito. L'interfaccia è minimale e pensata per un utilizzo rapido.
 
 Descrizione Approfondita del Progetto
