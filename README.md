@@ -38,6 +38,7 @@ Segui questi semplici passaggi per visualizzare il progetto localmente:
 Prerequisiti
 Non sono richiesti particolari prerequisiti oltre a un browser web moderno.
 
+
 Installazione
 Clona il repository (o scarica la cartella del progetto):
 
@@ -56,13 +57,15 @@ Apri il file index.html (o il nome del tuo file HTML principale) direttamente ne
 
 Se hai installato http-server globalmente (opzionale, per un server locale):
 
-# npm install -g http-server
+npm install -g http-server
 http-server .
 
 L'applicazione sarà accessibile all'indirizzo mostrato dal server (es. http://localhost:8080).
 
+
 Stato del Progetto
 Questo progetto è un esempio funzionale e autonomo di utilizzo di HTML, CSS e JavaScript per un'interfaccia utente interattiva.
+
 
 Contatti
 GitHub: https://github.com/ValeVent
