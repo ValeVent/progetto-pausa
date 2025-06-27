@@ -36,7 +36,7 @@ Non sono richiesti particolari prerequisiti oltre a un browser web moderno.
 Installazione
 Clona il repository (o scarica la cartella del progetto):
 
-git clone https://github.com/ValeVent/progetto-pausa.git
+git clone [https://github.com/ValeVent/progetto-pausa.git](https://github.com/ValeVent/progetto-pausa.git)
 
 Assicurati di sostituire 'progetto-pausa.git' con il nome esatto del tuo repository
 
