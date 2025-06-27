@@ -33,13 +33,16 @@ La durata della pausa è predefinita nel codice JavaScript:
 - Vengono aggiunti 15 minuti (900000ms) all'orario di inizio per calcolare l'orario di fine pausa.
 
 Come Avviare il Progetto
+
 Segui questi semplici passaggi per visualizzare il progetto localmente:
 
 Prerequisiti
+
 Non sono richiesti particolari prerequisiti oltre a un browser web moderno.
 
 
 Installazione
+
 Clona il repository (o scarica la cartella del progetto):
 
 git clone [https://github.com/ValeVent/progetto-pausa.git](https://github.com/ValeVent/progetto-pausa.git)
@@ -51,6 +54,7 @@ Naviga nella directory del progetto:
 cd progetto-pausa
 
 Avvio dell'Applicazione
+
 Assicurati che il file video (media/855391-uhd_3840_2160_25fps.mp4) sia presente nella cartella media all'interno della directory del progetto.
 
 Apri il file index.html (o il nome del tuo file HTML principale) direttamente nel tuo browser web.
@@ -64,10 +68,12 @@ L'applicazione sarà accessibile all'indirizzo mostrato dal server (es. http://l
 
 
 Stato del Progetto
+
 Questo progetto è un esempio funzionale e autonomo di utilizzo di HTML, CSS e JavaScript per un'interfaccia utente interattiva.
 
 
 Contatti
+
 GitHub: https://github.com/ValeVent
 
 LinkedIn: https://www.linkedin.com/in/valentina-venturo
