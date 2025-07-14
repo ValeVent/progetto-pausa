@@ -1,4 +1,4 @@
-Progetto Pausa
+# Progetto Pausa
 
 
 
@@ -6,7 +6,7 @@ Questo mini-progetto è un semplice timer interattivo progettato per aiutarti a 
 
 
 
-Descrizione Approfondita del Progetto
+## Descrizione Approfondita del Progetto
 
 
 
@@ -14,7 +14,7 @@ L'applicazione permette all'utente di avviare una "pausa" cliccando su un pulsan
 
 
 
-Tecnologie Utilizzate
+## Tecnologie Utilizzate
 
 
 
@@ -30,7 +30,7 @@ Tecnologie Utilizzate
 
 
 
-Funzionalità Principali
+## Funzionalità Principali
 
 
 
@@ -50,7 +50,7 @@ Funzionalità Principali
 
 
 
-Calcolo della Pausa
+ ## Calcolo della Pausa
 
 
 
@@ -66,7 +66,7 @@ La durata della pausa è predefinita nel codice JavaScript:
 
 
 
-Come Avviare il Progetto
+## Come Avviare il Progetto
 
 
 
@@ -74,7 +74,7 @@ Segui questi semplici passaggi per visualizzare il progetto localmente:
 
 
 
-Prerequisiti
+### Prerequisiti
 
 
 
@@ -84,7 +84,7 @@ Non sono richiesti particolari prerequisiti oltre a un browser web moderno.
 
 
 
-Installazione
+### Installazione
 
 
 
@@ -108,7 +108,7 @@ cd progetto-pausa
 
 
 
-Avvio dell'Applicazione
+### Avvio dell'Applicazione
 
 
 
@@ -136,7 +136,7 @@ L'applicazione sarà accessibile all'indirizzo mostrato dal server (es. http://l
 
 
 
-Stato del Progetto
+## Stato del Progetto
 
 
 
@@ -146,7 +146,7 @@ Questo progetto è un esempio funzionale e autonomo di utilizzo di HTML, CSS e J
 
 
 
-Contatti
+ ## Contatti
 
 
 
