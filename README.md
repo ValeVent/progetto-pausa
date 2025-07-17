@@ -150,7 +150,7 @@ Questo progetto è un esempio funzionale e autonomo di utilizzo di HTML, CSS e J
 
 
 
-GitHub: https://github.com/ValeVent
+- GitHub: https://github.com/ValeVent
 
 
 
