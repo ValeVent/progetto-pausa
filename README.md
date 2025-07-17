@@ -18,15 +18,15 @@ L'applicazione permette all'utente di avviare una "pausa" cliccando su un pulsan
 
 
 
-- HTML5: Struttura semantica del progetto.
+- **HTML5**: Struttura semantica del progetto.
 
 
 
-- CSS3: Stile e layout, inclusi effetti sul pulsante e testo, e gestione del video di sfondo.
+- **CSS3**: Stile e layout, inclusi effetti sul pulsante e testo, e gestione del video di sfondo.
 
 
 
-- JavaScript: Logica di interazione del timer e manipolazione del DOM per aggiornare gli orari e lo stato del pulsante.
+- **JavaScript**: Logica di interazione del timer e manipolazione del DOM per aggiornare gli orari e lo stato del pulsante.
 
 
 
@@ -34,19 +34,19 @@ L'applicazione permette all'utente di avviare una "pausa" cliccando su un pulsan
 
 
 
-- Avvio/Fine Pausa: Un singolo pulsante per iniziare o terminare la pausa.
+- **Avvio/Fine Pausa**: Un singolo pulsante per iniziare o terminare la pausa.
 
 
 
-- Visualizzazione Orari: Mostra l'orario esatto di inizio e di fine della pausa.
+- **Visualizzazione Orari**: Mostra l'orario esatto di inizio e di fine della pausa.
 
 
 
-- Sfondo Video: Un video a schermo intero in loop crea un'atmosfera immersiva e rilassante.
+- **Sfondo Video**: Un video a schermo intero in loop crea un'atmosfera immersiva e rilassante.
 
 
 
-- Interfaccia Intuitiva: Design minimalista e chiaro per un'esperienza utente semplice.
+- **Interfaccia Intuitiva**: Design minimalista e chiaro per un'esperienza utente semplice.
 
 
 
@@ -150,12 +150,12 @@ Questo progetto è un esempio funzionale e autonomo di utilizzo di HTML, CSS e J
 
 
 
-- GitHub: https://github.com/ValeVent
+- **GitHub**: https://github.com/ValeVent
 
 
 
-LinkedIn: https://www.linkedin.com/in/valentina-venturo
+- **LinkedIn**: https://www.linkedin.com/in/valentina-venturo
 
 
 
-Sito Web: www.valentinaventuro.it
+- **Sito Web**: www.valentinaventuro.it
